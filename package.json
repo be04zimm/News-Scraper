@@ -1,5 +1,5 @@
 {
-  "name": "News-Scraper",
+  "name": "news-scraper",
   "version": "1.0.0",
   "description": "NPR news articles, easily accessible for the user. User has the ability to comment on the articles, as well as save them on their",
   "main": "index.js",
