@@ -18,3 +18,7 @@ You will need to npm install the following node modules:
 - body-parser
 - cheerio
 - request
+
+
+#### Heroku Deployment:
+https://git.heroku.com/zimmer-news.git
