@@ -21,4 +21,4 @@ You will need to npm install the following node modules:
 
 
 #### Heroku Deployment:
-https://git.heroku.com/zimmer-news.git
+https://zimmer-news.herokuapp.com/
