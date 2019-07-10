@@ -1,10 +1,9 @@
 # News-Scraper
-NPR news articles, easily accessible for the user. User has the ability to comment on the articles, as well as save them on their 
+NPR news articles, easily accessible for the user. User has the ability to comment on the articles, as well as save them in a Saved Artcles tab on the webpage.
 
 ### Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development. I will assume that you already have Node.js and MongoDB installed locally. See deployment for notes on how to deploy the project on a live system.
-
-#### Install dependencies
+##### Install dependencies
+- Must have Node.js and MongoDB installed locally
 - In your CLI, enter mongod
 - In a new CLI window, go to root of directory and enter node server.js
 - In browser, navigate to http://localhost:3000
@@ -19,6 +18,9 @@ You will need to npm install the following node modules:
 - cheerio
 - request
 
+![](working_app.gif)
+![](command_line.gif)
 
 #### Heroku Deployment:
 https://zimmer-news.herokuapp.com/
+> Heroku deployment not (yet!) functioning.  Need to review the installed dependencies.
